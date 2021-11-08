@@ -1,0 +1,13 @@
+.body_background{
+    background-image:url("Pencil\ background.jpg");
+    background-position:center;
+    background-size:cover;
+}
+h1{
+   color:crimson;
+   font-size:40px; 
+}
+#mycanvas{
+    border-width:10px;
+    border-style:ridge;
+}
